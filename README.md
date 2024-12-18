@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think i can mesmerize you by my coding skills**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: www.linkedin.com/in/saikumar1002 </h3>
 <p align="left">
 </p>
 
