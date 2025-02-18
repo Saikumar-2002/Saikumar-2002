@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **frontend and backend**
 
-- 🌱 I’m currently learning **Full stack web development,Manual testing,AWS**
+- 🌱 I’m currently learning **Full stack web development,AWS**
 
 - 📫 How to reach me **saikumarkalva10@gmail.com**
 
