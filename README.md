@@ -10,6 +10,7 @@
 - 📫 How to reach me **saikumarkalva10@gmail.com**
 
 - 🚀 look at my portfolio **https://sky-profilee-31bec6.netlify.app/**
+- 🚀 look at my new portfolio **https://sky-portfolio-flax.vercel.app/**
 
 - ⚡ Fun fact **I think i can mesmerize you by my coding skills**
 
