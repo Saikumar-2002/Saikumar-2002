@@ -1,81 +1,94 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Saikumar Kalva</h1>
+<h3 align="center">🚀 Associate Software Developer | 1+ Year Experience in Frontend Development</h3>
 
-<h1 align="center">Hi 👋, I'm Saikumar</h1>
-<h3 align="center">An Associate Software Developer with 1 year of Experinece in Frontend Development.</h3>
-
-- 🔭 I’m currently working on **frontend and backend**
-
-- 🌱 I’m currently learning **Full stack web development,AWS**
-
-- 📫 How to reach me **saikumarkalva10@gmail.com**
-
-- 🚀 look at my portfolio **https://sky-profilee-31bec6.netlify.app/**
-- 🚀 look at my new portfolio **https://sky-portfolio-flax.vercel.app/**
-
-- ⚡ Fun fact **I think i can mesmerize you by my coding skills**
-
-<h3 align="left">Connect with me: www.linkedin.com/in/saikumar1002 </h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<p align="center">
+  <a href="https://sky-portfolio-flax.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-
-  <!-- HTML -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/saikumar1002" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Saikumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <!-- Express.js -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-
-  <!-- AWS -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <a href="mailto:saikumarkalva10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
+---
 
+## 👨‍💻 About Me
+
+- 💼 **1+ Year of Professional Experience in Frontend Development**
+- ⚛️ Specialized in building scalable and responsive UI using **React.js**
+- 🌐 Strong understanding of **JavaScript, DOM, API Integration**
+- 🔄 Experienced in working with backend technologies like **Node.js & Express**
+- ☁️ Currently learning **AWS & Advanced Full Stack Development**
+- 🎯 Passionate about writing clean, reusable & performance-optimized code
+
+---
+
+## 🛠️ Tech Stack
+
+### 🚀 Frontend Expertise (Primary Strength)
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+✔️ Responsive UI Development  
+✔️ Component-Based Architecture  
+✔️ State Management  
+✔️ REST API Integration  
+✔️ Performance Optimization  
+
+---
+
+### ⚙️ Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb" />
+</p>
+
+✔️ RESTful API Development  
+✔️ Authentication & Authorization  
+✔️ Database Design & Queries  
+
+---
+
+### 🔧 Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,aws" />
+</p>
+
+✔️ Version Control (Git & GitHub)  
+✔️ Cloud Basics (AWS)  
+
+---
+
+## 📈 Professional Experience
+
+🔹 **Associate Software Developer**  
+🗓️ 1 Year of Frontend Development Experience  
+
+- Developed dynamic and reusable UI components  
+- Improved application performance and responsiveness  
+- Integrated backend APIs efficiently  
+- Followed clean code and modular design principles  
+
+---
+
+## 🌟 Current Focus
+
+- 🚀 Mastering Full Stack Web Development  
+- ☁️ Deep diving into AWS Cloud  
+- 🧠 Strengthening Data Structures & System Design  
+
+---
+
+## ⚡ Fun Fact
+
+> I believe great UI can mesmerize users — and I build exactly that.
+
+---
+
+⭐️ From [Made with 💖 By @SKY]
